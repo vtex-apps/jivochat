@@ -1,13 +1,9 @@
 # JivoChat
 
-Open the VTEX App Store and install the app on your store.
+This app provides a native integration for all [JivoChat](https://www.jivochat.com/?utm_campaign=direct&utm_source=google.com&_ga=2.144978160.551999859.1580832835-1477813135.1580832835) customer comunication functionality.
 
-or
+## Configuration
 
-Run the following command:
-
-```sh
-vtex install vtex.jivochat@1.x
-```
-
-Next, open the app settings on your admin and fill the form with JivoChat's Widget ID.
+1. [Install](https://vtex.io/docs/recipes/store/installing-an-app) the `jivochat` app in the desired account using your terminal. You can also install the app through the VTEX App Store.
+2. In the admin's account, access the **Apps** section and then select the **JivoChat** box
+3. Fill out the form with your **JivoChat's Widget ID** and save your changes.
