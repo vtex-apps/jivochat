@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "jivochat",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "title": "JivoChat",
   "description": "JivoChat is a free communication app for chatting and monitoring visitors via online chat, Facebook messenger, phone and real-time email.",
   "builders": {
