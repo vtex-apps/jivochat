@@ -1,7 +1,7 @@
 {
   "vendor": "vtex",
   "name": "jivochat",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "title": "JivoChat",
   "description": "JivoChat is a free communication app for chatting and monitoring visitors via online chat, Facebook messenger, phone and real-time email.",
   "builders": {
@@ -9,7 +9,15 @@
     "docs": "0.x"
   },
   "billingOptions": {
-    "free": true
+    "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
+    "support": {
+      "url": "https://support.vtex.com/hc/requests"
+    },
+    "free": true,
+    "type": "free",
+    "availableCountries": [
+      "*"
+    ]
   },
   "dependencies": {},
   "settingsSchema": {
